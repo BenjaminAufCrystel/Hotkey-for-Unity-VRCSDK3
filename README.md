@@ -5,6 +5,4 @@ my first upload :D , its i easy little script whit this script you can make a ho
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3)
 [![GitHub](https://img.shields.io/github/license/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3)](https://github.com/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3/blob/main/LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/WorldCreatorAssistant?style=for-the-badge)](https://github.com/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3/total)](https://github.com/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3/releases)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/WorldCreatorAssistant?color=blue&label=Release&sort=semver&style=for-the-badge)](https://github.com/BenjaminAufCrystel/Hotkey-for-Unity-VRCSDK3/releases/latest)
